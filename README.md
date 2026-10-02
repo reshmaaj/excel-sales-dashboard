@@ -1,4 +1,4 @@
-# Bike Sales Dashboard – Excel
+# Bike Sales Dashboard - Excel
 
 ## Project Overview
 
